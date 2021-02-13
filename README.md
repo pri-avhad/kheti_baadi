@@ -1,6 +1,6 @@
-# khetibaadi
+# opening_screen
 
-SyntaxError
+A new Flutter application.
 
 ## Getting Started
 
